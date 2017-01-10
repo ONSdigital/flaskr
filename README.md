@@ -1,6 +1,9 @@
 # flaskr
 Simple flask app to prototype login form
 
+#Install packages
+`pip install -r requirements.txt`
+
 # To run
 `export FLASK_APP=hello.py`
 
